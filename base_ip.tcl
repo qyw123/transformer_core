@@ -1,0 +1,7 @@
+source xxx/soc_fadd_32ns_32ns_32_2_full_dsp_1_ip.tcl
+source xxx/soc_faddfsub_32ns_32ns_32_2_full_dsp_1_ip.tcl
+source xxx/soc_fdiv_32ns_32ns_32_5_no_dsp_1_ip.tcl
+source xxx/soc_fexp_32ns_32ns_32_2_full_dsp_1_ip.tcl
+source xxx/soc_fmul_32ns_32ns_32_2_max_dsp_1_ip.tcl
+source xxx/soc_fsqrt_32ns_32ns_32_3_no_dsp_1_ip.tcl
+source xxx/soc_sitofp_32ns_32_2_no_dsp_1_ip.tcl
